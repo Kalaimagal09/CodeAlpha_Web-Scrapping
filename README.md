@@ -30,9 +30,8 @@ To run this script on your local machine, follow these steps:
 **1. Prerequisites**
    - Make sure you have Python 3 installed.
 
-**2. Clone the Repository (Optional)**
-   If this project is on a repository like GitHub, you would clone it:
-   ```sh
-   git clone [YOUR_REPOSITORY_URL]
-   cd [repository-folder-name]
-'''sh
+**2. Install Dependencies**
+   -Install the necessary Python libraries by running the following command in your terminal.
+
+**3. Run the Script**
+Execute the Python script from your terminal.
