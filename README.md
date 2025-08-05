@@ -35,6 +35,4 @@ To run this script on your local machine, follow these steps:
    ```sh
    git clone [YOUR_REPOSITORY_URL]
    cd [repository-folder-name]
-
-**3. Install Dependencies**
-Install the necessary Python libraries by running the following command in your terminal:
+'''sh
